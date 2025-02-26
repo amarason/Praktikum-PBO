@@ -1,5 +1,5 @@
 /* Nama File    : Titik.java 
- * Deskripsi    : berisi atribut dan method dalam class Titik
+ * Deskripsi    : Berisi atribut dan method dalam class Titik
  * Pembuat      : Amara Putri Soniaji / 24060123120004
  * Tanggal      : 20 Februari 2025
 */
