@@ -29,6 +29,6 @@ public class AngkaSial {
 
 /*1. Baris 13 di program saya {System.out.println(angka +"bukan angka sial")} tidak dieksekusi saat ekssepsi terjadi.
 Hal ini karena kode tersebut berada setelah {throw new AngkaSialException()} sehingga kode berhenti berjalan
-2. Baris 23 di program saya {catch(AngkaSialException ase)} dieksekusi saat method cobaAngka dipanggil 13.
+2. Baris 22 di program saya {catch(AngkaSialException ase)} dieksekusi saat method cobaAngka dipanggil 13.
 Hal itu akibat dari eksepsi dari try. Sehingga program keluar dari blok try dan mamsuk ke blok catch untuk menangani eksepsi dan mengeluarkan message kesalahan
  */
