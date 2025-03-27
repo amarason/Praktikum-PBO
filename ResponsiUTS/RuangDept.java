@@ -44,5 +44,7 @@ public class RuangDept extends Ruang {
         System.out.println("Jumlah Meja: " + jumlahMeja);
         System.out.println("Jumlah Kursi: " + jumlahKursi);
         System.out.println("Jumlah Lemari: " + jumlahLemari);
+        DecimalFormat formatRupiah = new DecimalFormat("#,###");
+        System.out.println("Biaya Kebersihan: Rp " + formatRupiah.format(hitungBiayaKebersihan()));
 }
 }
