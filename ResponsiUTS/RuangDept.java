@@ -39,6 +39,8 @@ public class RuangDept extends Ruang {
 
     @Override
     public void printInfo() {
+        System.out.println("Kode Ruang: " + getKode());
+        System.out.println("Kapasitas: " + getKapasitas());
         System.out.println("Nama Departemen: " + namaDepartemen);
         System.out.println("Ketua Departemen: " + ketuaDepartemen);
         System.out.println("Jumlah Meja: " + jumlahMeja);
