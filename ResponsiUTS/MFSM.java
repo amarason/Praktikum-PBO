@@ -18,11 +18,13 @@ public class MFSM {
         labNonKom.printInfo();
         System.out.println();
 
+        // Membuat objek Ruang Departement
         RuangDept ruangDept = new RuangDept("DEPT-01", 20.0, 15.0, 4.0, 10, 4000,"Teknik Informatika", "Dr. Budi Santoso", 5, 20, 3);
         System.out.println("=== Informasi Ruang Departemen ===");
         ruangDept.printInfo();
         System.out.println();
 
+        // Membuat objek Ruang Dosen
         RuangDosen ruangDosen = new RuangDosen("DOSEN-01", 6.0, 5.0, 3.0, 2, 3000, "Prof. Imam, S.T., M.T.", 1, 2);
         System.out.println("=== Informasi Ruang Dosen ===");
         ruangDosen.printInfo();
