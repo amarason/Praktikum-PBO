@@ -18,7 +18,7 @@ public class MFSM {
         labNonKom.printInfo();
         System.out.println();
 
-        RuangDept ruangDept = new RuangDept("DEPT-01", 20.0, 15.0, 4.0, 10, 8000,"Teknik Informatika", "Dr. Budi Santoso", 5, 20, 3);
+        RuangDept ruangDept = new RuangDept("DEPT-01", 20.0, 15.0, 4.0, 10, 4000,"Teknik Informatika", "Dr. Budi Santoso", 5, 20, 3);
         System.out.println("=== Informasi Ruang Departemen ===");
         ruangDept.printInfo();
         System.out.println();
