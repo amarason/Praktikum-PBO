@@ -49,6 +49,8 @@ public class RuangDosen extends Ruang {
 
     @Override
     public void printInfo() {
+        System.out.println("Kode Ruang: " + getKode());
+        System.out.println("Kapasitas: " + getKapasitas());
         System.out.println("Nama Dosen: " + namaDosen);
         System.out.println("Jumlah Meja Dosen: " + jumlahMejaDosen);
         System.out.println("Jumlah Kursi Dosen: " + jumlahKursiDosen);
