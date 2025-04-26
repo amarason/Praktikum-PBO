@@ -1,6 +1,6 @@
 /* Nama File    : TestPolimorfisme.java
  * Deskripsi    : program utama untuk mengetes class Pegawai beserta sub classnya dengan konsep polimorfisme
- * Tanggal      : 25 April 2025
+ * Tanggal      : 24 April 2025
  * Nama/NIM     : Amara Putri Soniaji/24060123120004 
  */
 
