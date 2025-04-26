@@ -1,6 +1,6 @@
 /* Nama File    : Pegawai.java
  * Deskripsi    : berisi atribut dan method dalam superclass Pegawai dengan konsep polimorfisme
- * Tanggal      : 25 April 2025
+ * Tanggal      : 24 April 2025
  * Nama/NIM     : Amara Putri Soniaji/24060123120004 
  */
 
